@@ -1,5 +1,5 @@
 {
-    "name": "arnaudbroes/linkedin-api-php-client",
+    "name": "git-ekuo/linkedin-api-php-client",
     "description": "This package is an SDK for using the LinkedIn API.",
     "type": "library",
     "keywords": [
@@ -9,7 +9,7 @@
         "social", "rest", "api", "client", "social network", "auth", "authorization",
         "wrapper", "integration", "platform"
     ],
-    "homepage": "https://github.com/arnaudbroes/linkedin-api-php-client/",
+    "homepage": "https://github.com/git-ekuo/linkedin-api-php-client/",
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-curl": "*",
@@ -17,9 +17,9 @@
     },
     "license": "MIT",
     "support": {
-        "docs": "https://github.com/arnaudbroes/linkedin-api-php-client/blob/master/README.md",
-        "source": "https://github.com/arnaudbroes/linkedin-api-php-client",
-        "issues": "https://github.com/arnaudbroes/linkedin-api-php-client/issues"
+        "docs": "https://github.com/git-ekuo/linkedin-api-php-client/blob/master/README.md",
+        "source": "https://github.com/git-ekuo/linkedin-api-php-client",
+        "issues": "https://github.com/git-ekuo/linkedin-api-php-client/issues"
     },
     "autoload": {
         "psr-4": {"LinkedIn\\": "src/"}
